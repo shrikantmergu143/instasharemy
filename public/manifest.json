@@ -1,0 +1,25 @@
+{
+  "theme_color": "#1975ff",
+  "background_color": "#f2f5f9",
+  "display": "standalone",
+  "start_url": ".",
+  "short_name": "InstaShare",
+  "name": "InstaShare",
+  "icons": [
+    {
+      "src": "insta4.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "insta5.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "insta5.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    }
+  ]
+}
